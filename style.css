@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: #fff;
+}
+
+#pong-canvas {
+  margin-left: 10px;
+  margin-top: 10px;
+}
